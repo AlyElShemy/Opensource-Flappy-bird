@@ -1,4 +1,13 @@
-
+/**
+ * HSVColorTracking
+ * Greg Borenstein
+ * https://github.com/atduskgreg/opencv-processing-book/blob/master/code/hsv_color_tracking/HSVColorTracking/HSVColorTracking.pde
+ *
+ * Modified by Jordi Tost @jorditost (color selection)
+ * 
+ * University of Applied Sciences Potsdam, 2014
+ */
+ // This is an amended version of the file, modification by Aly El Shemy
 class Tracker {
   public Capture video;
   private OpenCV opencv;
